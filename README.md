@@ -1,4 +1,4 @@
-**🔥** FireChatApp****
+🔥** FireChatApp**
 FireChatApp is a real-time global chat application that allows users to chat with friends or meet new people from anywhere in the world. It is built using JavaScript, Firebase (Realtime Database + Google Authentication), and is deployed on both Vercel and Netlify, so you can easily share the app and chat via link.
 
 🚀 Features
